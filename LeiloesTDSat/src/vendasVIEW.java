@@ -107,6 +107,9 @@ public class vendasVIEW extends javax.swing.JFrame {
             }
         });
     }
+    
+    private void listarProdutosVendidos(){
+    };
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JLabel jLabel2;
